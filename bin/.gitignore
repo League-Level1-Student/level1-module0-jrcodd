@@ -1,6 +1,7 @@
 /BodyPartQuiz.class
 /DrumKit.class
 /DuelingButtons.class
+/Fish.class
 /MyFirstSwingGUI.class
 /PhotoQuiz.class
 /Recipes.html
@@ -9,6 +10,7 @@
 /cymbal.wav
 /drum.wav
 /extra/
+/fish_family.class
 /homer-woohoo.wav
 /jack.jpeg
 /jackInTheBox.png
@@ -17,7 +19,4 @@
 /morgan.jpeg
 /sawing-wood-daniel_simon.wav
 /snare.jpg
-/duck_family.class
-/Duck.class
-/Fish.class
-/fish_family.class
+/cymbalImage.jpeg
